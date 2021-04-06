@@ -1,5 +1,5 @@
 # Laboratorio 9: AMPLIFICADOR OPERACIONAL
-Nombre: Caillamara Leonardo
+Integrantes: Caillamara Leonardo, González Ariel
 ## 1. OBJETIVOS
 
 ### Objetivo general:
